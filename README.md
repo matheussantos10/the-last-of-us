@@ -1,9 +1,6 @@
-# the-last-of-us 🍄
+<h1 align="center"> The Last of Us 🍄</h1>
 
 Projeto de um site de apresentação sobre a serie The Last of Us! 
-
-<h1 align="center"> The Last of Us</h1>
-
 <br>
 
 <p align="center">
